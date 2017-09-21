@@ -1,3 +1,5 @@
+
+
 div {
 	margin: auto;
 	min-height: 70vh;
@@ -16,4 +18,6 @@ body {
 img {
 	content: url("https://user-images.githubusercontent.com/25018896/30657525-bd782bd0-9dec-11e7-952c-b3dea6dae596.png");
  }
-
+h1 {
+	font-family: "Courier New", Courier, monospace
+}
