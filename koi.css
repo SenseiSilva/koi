@@ -4,7 +4,10 @@ div {
 }
 
 .Aligner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+body {
+	margin: 0px;
 }
