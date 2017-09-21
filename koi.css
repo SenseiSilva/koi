@@ -2,6 +2,9 @@ div {
 	margin: auto;
 	min-height: 70vh;
 	width: 100vh;
+img {
+	content: url("https://user-images.githubusercontent.com/25018896/30657525-bd782bd0-9dec-11e7-952c-b3dea6dae596.png");
+ }
 }
 
 .Aligner {
@@ -14,6 +17,4 @@ body {
 	margin: 0px;
 }
 
-img {
-	border-shadow: 5px 5px 10px;
-}
+
