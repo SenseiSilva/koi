@@ -13,3 +13,7 @@ body {
 	border: 50px solid #F5A9D0;
 	margin: 0px;
 }
+
+img {
+	border-shadow: 5px 5px 10px;
+}
