@@ -4,6 +4,7 @@ div {
 	margin: auto;
 	min-height: 30vh;
 	width: 100vh;
+	border: 60px solid #F5A9D0;
 }
 
 .Aligner {
@@ -12,7 +13,6 @@ div {
 	justify-content: center;
 }
 body {
-	border: 60px solid #F5A9D0;
 	margin: 0px;
 }
 img {
