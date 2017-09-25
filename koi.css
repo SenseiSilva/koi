@@ -15,6 +15,7 @@ body {
 	margin: 0px;
 	border: 60px solid #F5A9D0;
 	background-image: url("https://user-images.githubusercontent.com/25018896/30766512-70f2d6d8-9faa-11e7-9e3b-48278353b09f.jpg");
+	background-attachment: fixed;
 }
 img {
 	content: url("https://user-images.githubusercontent.com/25018896/30678308-1d6d1736-9e46-11e7-971b-667066786090.png");
