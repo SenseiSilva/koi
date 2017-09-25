@@ -3,7 +3,7 @@
 div {
 	margin: auto;
 	max-height: 100vh;
-	width: 80%;
+	min-width: 80%;
 	border: 60px solid #F5A9D0;
 }
 
