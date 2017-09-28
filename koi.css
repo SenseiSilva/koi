@@ -3,13 +3,13 @@ div {
 	width: 90vw;
 	margin: auto;
 	height: 80vh;
-	background-color: white;
+	background-color: pink;
 	box-shadow: 10px 10px 10px #262626;
 	 
 }
 
 body{
-	background-color:pink;
+	background-color: white;
 }
 
 h1 {
