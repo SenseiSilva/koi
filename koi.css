@@ -1,22 +1,91 @@
 
-div {
-	width: 90vw;
-	margin: auto;
-	height: 80vh;
-	background-color: white;
-	box-shadow: 10px 10px 10px #262626;
-	 
-}
+@media screen and (min-width: 900px) {
 
-body{
-	background-color: pink;
-}
+	body {
+		margin: 0px;
+		background-color: #ffc4d7;
+	}
 
-h1 {
-	text-align: center;
-}
+	h1 {
+		display: block;
+		font-family: 'Leckerli One', cursive;
+		font-size: 50px;
+		color: black;
+		text-align: center;
+		margin: 4px;
+	}
 
-img {
-	content: url("fish.gif");
-	margin: auto;
+	.fish {
+		content: url("images/fish.gif");
+		width: 60vw;
+		height: 80vh;
+	 }
+ 
+	 .center-vertical {
+		display: flex;
+		justify-content: center;
+		height: inherit;
+	}
+
+	.center-horizontal {
+		display: flex;
+		align-items: center;	
+	}
+	
+	.koi {
+		display: flex;
+		margin: 30px;
+		background-color: white;
+		width: 95%;
+		box-shadow: 7px 7px 35px
+	}
+
+	.left {
+		width: 46%;
+		display: inline-table;
+		margin: 15px;
+		text-align: center;
+	}
+
+	.right {
+		width: 46%;
+		display: inline-table;
+		margin: 10px;
+		text-align: center;
+	}
+
+	.one {
+		display: inline-table;
+		margin: auto;
+		content: url("http://dvcportal.weebly.com/uploads/4/5/1/6/45163595/5366252.jpg");
+		width: 33%;
+		height: 43vh;
+	}
+
+	.two {
+		display: inline-table;
+		margin: auto;
+		content: url("http://dvcportal.weebly.com/uploads/4/5/1/6/45163595/img-0335_orig.jpg");
+		width: 33%;
+		height: 43vh;
+	}
+
+	.div-two {
+		height: 90vh;
+	}
+
+	p {
+		font-family: 'Leckerli One', cursive;
+		font-size: 15px;
+		color: black;
+		text-align: center;
+	}
+
+	h2 {
+		font-family: 'Leckerli One', cursive;
+		font-size: 35px;
+		color: black;
+		text-align: center;
+	}
+	
 }
