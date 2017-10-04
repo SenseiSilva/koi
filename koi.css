@@ -16,7 +16,7 @@
 	}
 
 	.fish {
-		content: url("fish.gif");
+		content: url("images/fish.gif");
 		width: 70vw;
 		height: 80vh;
 	 }
@@ -107,7 +107,7 @@
 	}
 
 	.fish {
-		content: url("fish.gif");
+		content: url("images/fish.gif");
 		width: 80vw;
 		height: 70vh;
 	 }
@@ -199,7 +199,7 @@
 	}
 
 	.fish {
-		content: url("fish.gif");
+		content: url("images/fish.gif");
 		width: 90vw;
 		height: 50vh;
 	 }
@@ -217,7 +217,7 @@
 	
 	.koi {
 		display: flex;
-		margin: 15px;
+		margin: 20px;
 		background-color: white;
 		width: 93%;
 		height: 80vh;
@@ -274,14 +274,14 @@
 
 	p {
 		font-family: 'Leckerli One', cursive;
-		font-size: 12px;
+		font-size: 13px;
 		color: black;
 		text-align: center;
 	}
 
 	h2 {
 		font-family: 'Leckerli One', cursive;
-		font-size: 35px;
+		font-size: 38px;
 		color: black;
 		text-align: center;
 	}
